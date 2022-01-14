@@ -2,6 +2,36 @@ body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
+.aboutMe {
+  color: #f8f9fa;
+  background-color: #370617;
+}
+.myWork {
+  color: #f8f9fa;
+  background-color: #6a040f;
+}
+.experiences {
+  color: #f8f9fa;
+  background-color: #9d0208;
+}
+.passions {
+  color: #f8f9fa;
+  background-color: #d00000;
+}
+.newProjects {
+  color: #f8f9fa;
+  background-color: #dc2f02;
+}
+
+.gitHub {
+  color: #f8f9fa;
+  background-color: #e85d04;
+}
+.otherLinks {
+  color: #f8f9fa;
+  background-color: #f48c06;
+}
+
 /*
 h1 {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
